@@ -1,12 +1,13 @@
-#Spring Boot  初始搭建
+# Spring Boot  初始搭建
 
-###需要准备
+### 需要准备
 【Spring Boot】【Maven】【Eclipse】【java8】
 
-###源码：
+### 源码：
 https://github.com/azurewy/wzcon-study/tree/master/wzcon_demo_01
 
-###创建步骤
+### 创建步骤
+
 1、创建workspace
 
 2、在eclipse里面配置maven
@@ -19,10 +20,12 @@ https://github.com/azurewy/wzcon-study/tree/master/wzcon_demo_01
 
 6、完成
 
-###工程目录
+### 工程目录
 
 src/main/java 程序开发以及主程序入口
+
 src/main/resources 配置文件
+
 src/test/java 测试程序
 
 
