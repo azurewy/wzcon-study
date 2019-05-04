@@ -29,4 +29,4 @@ src/main/resources 配置文件
 src/test/java 测试程序
 
 
-- [详细说明](http://note.youdao.com/noteshare?id=21cae869640cfd72492ae7cce93e3b90&sub=F2E42EAD5F51439D943927FCC916E7E3 "详细说明")
+[搭建Spring Boot 入门篇](http://note.youdao.com/noteshare?id=21cae869640cfd72492ae7cce93e3b90&sub=F2E42EAD5F51439D943927FCC916E7E3 "详细说明")
