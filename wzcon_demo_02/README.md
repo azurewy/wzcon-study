@@ -1,16 +1,32 @@
-# Getting Started
+# Spring Boot 数据库交互+lombok
 
-### Reference Documentation
-For further reference, please consider the following sections:
+### 需要准备
+【Spring Boot】【Maven】【Eclipse】【java8】
 
-* [Official Apache Maven documentation](https://maven.apache.org/guides/index.html)
+### 源码：
+https://github.com/azurewy/wzcon-study/tree/master/wzcon_demo_02
 
-### Guides
-The following guides illustrate how to use some features concretely:
+### 创建步骤
 
-* [Accessing data with MySQL](https://spring.io/guides/gs/accessing-data-mysql/)
-* [Accessing Data with JPA](https://spring.io/guides/gs/accessing-data-jpa/)
-* [Building a RESTful Web Service](https://spring.io/guides/gs/rest-service/)
-* [Serving Web Content with Spring MVC](https://spring.io/guides/gs/serving-web-content/)
-* [Building REST services with Spring](https://spring.io/guides/tutorials/bookmarks/)
+1、创建workspace
 
+2、在eclipse里面配置maven
+
+3、创建一个spring boot工程：选择File-->New-->Static Web Project
+
+4、填写相关的项目内容
+
+5、可以选择你需要在Spring Boot中集成的插件
+
+6、完成
+
+### 工程目录
+
+src/main/java 程序开发以及主程序入口
+
+src/main/resources 配置文件
+
+src/test/java 测试程序
+
+
+[搭建Spring Boot 入门篇](http://note.youdao.com/noteshare?id=21cae869640cfd72492ae7cce93e3b90&sub=F2E42EAD5F51439D943927FCC916E7E3 "详细说明")
