@@ -1,5 +1,7 @@
 package com.wzcon.demo.controller;
 
+import java.util.List;
+
 import javax.annotation.Resource;
 
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -27,6 +29,13 @@ public class WzconDemo02Controller {
         d.setName("wzcon");
         wzconDemo02Service.save(d);//保存数据.
         return "ok.DemoController.save";
+
+    }	
+    
+    
+    @RequestMapping("/getDemoList")
+    public List<WzconDemo02> getDemoList(String name){
+        return wzconDemo02Service.findByName(name);
 
     }	
 

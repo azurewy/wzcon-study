@@ -15,7 +15,7 @@ public class WzconDemo02 {
 
 	@Id
 	@GeneratedValue
-	private long id;
+	private Long id;
 
 	@Column(name = "tname")
 	private String name;
